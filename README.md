@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- HEADER BANNER (Custom Firza Ilmi) -->
+<!-- HEADER BANNER -->
 <img src="https://raw.githubusercontent.com/Maverick-list/Maverick-list/main/banner.png" width="100%" alt="Firza Ilmi Banner" />
 
 <br/>
@@ -39,25 +39,36 @@
 
 ---
 
-### 📉 ACTIVITY RADAR (Auto-Update)
-<!-- Versi ini tidak butuh GitHub Actions, langsung jalan! -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maverick-list&theme=neon-pallete&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
+### 🎮 CONTRIBUTION QUEST (Snake Game)
+<!-- Versi dinamis yang memakan kotak-kotak kontribusi kamu! -->
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/snake.svg?github_user=Maverick-list&color_snake=cyan&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" alt="Snake Game" />
+</p>
 
 ---
 
 ### 📊 PERFORMANCE METRICS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maverick-list&show_icons=true&theme=neon&hide_border=true&title_color=00F2FF&text_color=FFFFFF&icon_color=00F2FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-list&layout=compact&theme=neon&hide_border=true&title_color=00F2FF&text_color=FFFFFF" width="48%" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Maverick-list&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FF" width="400px" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-list&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FF" width="400px" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maverick-list&theme=tokyonight&hide_border=true&stroke=00F2FF&fire=00F2FF" width="100%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maverick-list&theme=neon&hide_border=true&stroke=00F2FF&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF" width="100%" />
-</div>
+---
+
+### 🏆 ACHIEVEMENTS
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maverick-list&theme=tokyonight&no-frame=true&column=4" width="100%" />
+</p>
 
 ---
 
@@ -79,20 +90,3 @@
 </p>
 
 </div>
-
----
-
-### 🎮 CONTRIBUTION QUEST (Snake Game)
-<!-- Animasi ular yang memakan kontribusi kamu! -->
-<div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/snake.svg?github_user=Maverick-list&outputs=color-snake.svg&palette=github-dark" width="100%" alt="Snake Game" />
-</div>
-
----
-
-### 🏆 ACHIEVEMENTS & TROPHIES
-<!-- Menampilkan piala seperti rank di dalam game -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maverick-list&theme=neon&no-frame=true&column=4" width="100%" alt="Trophies" />
-</div>
-
