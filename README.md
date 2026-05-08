@@ -90,3 +90,7 @@
 </p>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/Maverick-list/Maverick-list/snake-output/snake.svg" alt="Snake animation" />
+
+###
