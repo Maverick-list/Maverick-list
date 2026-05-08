@@ -79,3 +79,20 @@
 </p>
 
 </div>
+
+---
+
+### 🎮 CONTRIBUTION QUEST (Snake Game)
+<!-- Animasi ular yang memakan kontribusi kamu! -->
+<div align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/snake.svg?github_user=Maverick-list&outputs=color-snake.svg&palette=github-dark" width="100%" alt="Snake Game" />
+</div>
+
+---
+
+### 🏆 ACHIEVEMENTS & TROPHIES
+<!-- Menampilkan piala seperti rank di dalam game -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maverick-list&theme=neon&no-frame=true&column=4" width="100%" alt="Trophies" />
+</div>
+
