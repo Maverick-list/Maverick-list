@@ -8,8 +8,25 @@
 <br/>
 
 # 💫 About Me:
-"Create a premium GitHub Profile README for a developer named Firza Ilmi.<br><br>Personal Details:<br><br>Education: President University '27 and DJA '33.<br>Bio: Use a futuristic/techy tone. Include 'No success before fail'.<br>Tech Stack: HTML, CSS, JavaScript, Python, Git, Figma.<br>Design Requirements:<br><br>Use a Dark/Cyberpunk theme with Neon Cyan (#00F2FF) accents.<br>Include a Typing SVG for the greeting.<br>Add GitHub Stats and Top Languages cards using the 'tokyonight' theme.<br>Include a GitHub Streak card.<br>Add Social Badges for Instagram (@maverick_list) and TikTok (@mavericklist).<br>Use Capsule Render for a waving footer.<br>Make the layout clean using <div align="center"> for main sections.<br>Note: Avoid using complex GitHub Actions for now, focus on dynamic SVGs that update automatically via external APIs."
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Greetings,+Universe!;I+am+Firza+Ilmi;Full+Stack+Explorer;No+success+before+fail." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  🚀 <b>Digital Alchemist</b> exploring the intersection of AI, Web3, and Automation. <br/>
+  Current coordinates: <b>President University '27</b> 🧑🏻‍💻 | <b>DJA '33</b> 👳🏼 <br/>
+  <i>"Transforming lines of code into futuristic reality."</i>
+</p>
+
+<p align="center">
+  🔭 <b>Status:</b> Developing high-intelligence automation systems. <br/>
+  ⚡ <b>Motto:</b> No success before fail.
+</p>
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maverick_list) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/firza-ilmi-8912b936b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@maverick_mv7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@firzailmi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:firzailmidja@gmail.com) 
