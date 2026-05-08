@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER (Custom Firza Ilmi) -->
 <img src="https://raw.githubusercontent.com/Maverick-list/Maverick-list/main/banner.png" width="100%" alt="Firza Ilmi Banner" />
 
 <br/>
@@ -39,14 +39,15 @@
 
 ---
 
-### 📊 3D COGNITIVE GRAPH
+### 📉 ACTIVITY RADAR (Auto-Update)
+<!-- Versi ini tidak butuh GitHub Actions, langsung jalan! -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maverick-list/Maverick-list/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maverick-list&theme=neon-pallete&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
-### 📈 PERFORMANCE METRICS
+### 📊 PERFORMANCE METRICS
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maverick-list&show_icons=true&theme=neon&hide_border=true&title_color=00F2FF&text_color=FFFFFF&icon_color=00F2FF" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maverick-list&layout=compact&theme=neon&hide_border=true&title_color=00F2FF&text_color=FFFFFF" width="48%" />
